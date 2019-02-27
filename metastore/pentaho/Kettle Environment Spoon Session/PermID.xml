@@ -21,7 +21,7 @@
                   </child>
                   <child>
                      <id>filename</id>
-                     <value>/home/matt/test-stuff/PermID/main-job.kjb</value>
+                     <value>/home/matt/git/mattcasters/kettle-permid-ntriples/main-job.kjb</value>
                      <type>String</type>
                   </child>
                   <child>
@@ -37,38 +37,6 @@
                   <child>
                      <id>fileType</id>
                      <value>Job</value>
-                     <type>String</type>
-                  </child>
-               </children>
-            </child>
-            <child>
-               <id>1</id>
-               <value></value>
-               <type>String</type>
-               <children>
-                  <child>
-                     <id>sourceRepository</id>
-                     <value>N</value>
-                     <type>String</type>
-                  </child>
-                  <child>
-                     <id>filename</id>
-                     <value>file:///home/matt/test-stuff/PermID/process-organization-relationships.ktr</value>
-                     <type>String</type>
-                  </child>
-                  <child>
-                     <id>repositoryName</id>
-                     <value></value>
-                     <type>String</type>
-                  </child>
-                  <child>
-                     <id>directory</id>
-                     <value>/</value>
-                     <type>String</type>
-                  </child>
-                  <child>
-                     <id>fileType</id>
-                     <value>Trans</value>
                      <type>String</type>
                   </child>
                </children>
@@ -97,7 +65,7 @@
                   </child>
                   <child>
                      <id>filename</id>
-                     <value>file:///home/matt/test-stuff/PermID/process-organization-relationships.ktr</value>
+                     <value>/home/matt/git/mattcasters/kettle-permid-ntriples/main-job.kjb</value>
                      <type>String</type>
                   </child>
                   <child>
@@ -112,7 +80,7 @@
                   </child>
                   <child>
                      <id>fileType</id>
-                     <value>Trans</value>
+                     <value>Job</value>
                      <type>String</type>
                   </child>
                </children>

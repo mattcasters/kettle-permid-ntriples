@@ -588,7 +588,7 @@
       <read_only_from_node>N</read_only_from_node>
       <labels>
         <label />
-        <value>Organization</value>
+        <value>Person</value>
       </labels>
       <properties>
         <property>
