@@ -3,11 +3,11 @@ Processing PermId n-triples files POC
 
 To make this sample work take care of a few things:
 
-1. Download the ntriples files from https://permid.org/
-2. uncompress (gzip -d) the files
-3. Create a new project with a local graph in Neo4j Desktop
-4. Configure the project base folder in parameter BASE_FOLDER in main-job.kjb
-5. Make sure your graph project is stopped in Neo4j desktop
+* Download the ntriples files from https://permid.org/
+* uncompress (gzip -d) the files
+* Create a new project with a local graph in Neo4j Desktop
+* Configure the project base folder in parameter BASE_FOLDER in main-job.kjb
+* Make sure your graph project is stopped in Neo4j desktop
 
 After that just run main-job.kjb
 
